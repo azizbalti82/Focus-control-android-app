@@ -2,4 +2,4 @@
 block all the time consuming apps in your phone and start taking controle of your life
 
 
-![image](https://github.com/user-attachments/assets/e0061e56-a42f-4b99-b5de-bec913d43a59)
+![image](https://github.com/user-attachments/assets/b556c6d8-e7e4-4f4a-b6fb-8904e65189e7)
